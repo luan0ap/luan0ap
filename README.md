@@ -1,8 +1,9 @@
 # 💫About Me :
 - I am currently working on Mozzila documentation translations.
 - I'm an open-source community lover.
-- I like doing volunteer jobs.
+- I love doing volunteer jobs
 - I am currently looking for **front-end jobs**, so please **contact-me** if you can help me :).
+- I'm looking for a place where I can help the world with my knowledge and skils, I want to be part of the humanity history
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luan-ap) 
