@@ -9,8 +9,8 @@
 ### 🖖 Hi there
 - I am currently working on Mozzila documentation translations.
 - I love contribute with open source projects and volunteer positions.
-- Do you know some front-end position? Feel free to share it to me, i'm currently looking for new oportunities :)
-- I'm looking for a place where I can help the world with my knowledge and skills, I want to be part of the humanity history
+- **Do you know some front-end position?** I'm currently looking for new oportunities. 👀
+- I'm looking for a place where I can help the world, I want to be part of the humanity history
 
 ---
 
