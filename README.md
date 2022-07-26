@@ -6,7 +6,7 @@
 
 ---
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
+### 🖖 Hi there
 - I am currently working on Mozzila documentation translations.
 - I love contribute with open source projects and volunteer positions.
 - Do you know some front-end position? Feel free to share it to me, i'm currently looking for new oportunities :)
