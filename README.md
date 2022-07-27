@@ -45,3 +45,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luan0ap&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+![](https://github-readme-stats.vercel.app/api?username=luan0ap&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true)
