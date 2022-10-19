@@ -7,10 +7,10 @@
 ---
 
 ### 🖖 Hi there
-- I am currently working on Mozzila documentation translations.
+- I am currently working on Mozilla documentation translations.
 - I love contribute with open source projects and volunteer positions.
 - **Do you know some front-end position?** I'm currently looking for new oportunities. 👀
-- I'm looking for a place where I can help the world, I want to be part of the humanity history
+- I'm looking for a place where I can help the world
 
 ---
 
